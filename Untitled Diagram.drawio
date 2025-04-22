@@ -42,7 +42,7 @@
         <mxCell id="rdoXWai72FaAfEw6Tc3U-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="rdoXWai72FaAfEw6Tc3U-9" target="rdoXWai72FaAfEw6Tc3U-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rdoXWai72FaAfEw6Tc3U-9" value="Data pipeline" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.data_pipeline;fillColor=#F58534;gradientColor=none;" parent="1" vertex="1">
+        <mxCell id="rdoXWai72FaAfEw6Tc3U-9" value="Data sync/transform" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.data_pipeline;fillColor=#F58534;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="660" y="122" width="67.5" height="81" as="geometry" />
         </mxCell>
         <mxCell id="rdoXWai72FaAfEw6Tc3U-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="rdoXWai72FaAfEw6Tc3U-10" target="rdoXWai72FaAfEw6Tc3U-20" edge="1">
