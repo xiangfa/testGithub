@@ -88,7 +88,7 @@
         <mxCell id="rdoXWai72FaAfEw6Tc3U-26" value="&lt;b&gt;Data Collector&lt;/b&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp;Server&lt;/b&gt;&lt;/div&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/web_server.svg;" vertex="1" parent="1">
           <mxGeometry x="300" y="138" width="40" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="rdoXWai72FaAfEw6Tc3U-40" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/ai_machine_learning/Azure_Applied_AI.svg;" vertex="1" parent="1">
+        <mxCell id="rdoXWai72FaAfEw6Tc3U-40" value="AI based quality boost&lt;div&gt;(optional)&lt;/div&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/ai_machine_learning/Azure_Applied_AI.svg;" vertex="1" parent="1">
           <mxGeometry x="817" y="30" width="68" height="52" as="geometry" />
         </mxCell>
         <mxCell id="rdoXWai72FaAfEw6Tc3U-49" value="&amp;nbsp;Public Cloud" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
