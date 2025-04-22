@@ -19,7 +19,7 @@
         <mxCell id="rdoXWai72FaAfEw6Tc3U-3" value="data collection&lt;div&gt;client&lt;/div&gt;" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.android_phone" parent="1" vertex="1">
           <mxGeometry x="95" y="360" width="30" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="RLRE6O3RHbVyd6mGN-od-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rdoXWai72FaAfEw6Tc3U-4">
+        <mxCell id="RLRE6O3RHbVyd6mGN-od-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="rdoXWai72FaAfEw6Tc3U-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="320" y="190" as="targetPoint" />
           </mxGeometry>
